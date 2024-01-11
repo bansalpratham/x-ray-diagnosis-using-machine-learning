@@ -1,5 +1,7 @@
 # Abstract
 Artificial intelligence has transformed the manual image analysis done by radiologists and has impacted the diagnosis of various chest diseases due to the development of new models and growing imaging data in the public domain. A lot of success has been observed with the use of model for single disease identification from an image. But these models have failed to identify and account for multiple diseases with insufficient training data being a major reason. This research project aims to achieve multi disease classification from images using datasets accounting for multiple diseases available publicly. This data would be improved upon to provide the most balanced data quality and quantity and then a combination of machine learning models would be deployed to achieve accuracy in prediction of multiple diseases.
+
+
 <img width="335" alt="Screenshot 2024-01-11 at 11 05 52 PM" src="https://github.com/bansalpratham/x-ray-diagnosis-using-machine-learning/assets/58854752/f191edc0-b490-463a-9434-1e976aee544d">
 
 # Future Scope
